@@ -1,6 +1,6 @@
 #Write your code below this row 👇
 x = 0
-for x in range (1, 201):
+for x in range (1, 2001):
     if x % 15 == 0:
         print("FizzBuzz")
     elif x % 3 == 0:
